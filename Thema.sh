@@ -12,7 +12,7 @@ else
 fi
 
 clear
-figlet -f slant "RPL 2" | lolcat
+figlet -f slant "CYBER DARKNESS404" | lolcat
 neofetch --ascii_distro Debian
 echo -e "\033[1;36m🔥 NEOTHEME VIP v90.7 🔥\033[0m"
 echo -e "\033[1;33m🔑 Masukkan kode aktivasi untuk mengakses fitur premium!\033[0m"
